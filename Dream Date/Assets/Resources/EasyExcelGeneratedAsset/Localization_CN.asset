@@ -1,0 +1,44 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 538e6faf64077ac4c9a356c86ab26215, type: 3}
+  m_Name: Localization_CN
+  m_EditorClassIdentifier: 
+  ExcelFileName: Config.xlsx
+  ExcelSheetName: Localization_CN
+  KeyFieldName: _ID
+  elements:
+  - _ID: dialogue_lobby_opening_0
+    _value: "\u6B22\u8FCE\u6765\u5230\u68A6\u5E7B\u7EA6\u4F1A\uFF01"
+  - _ID: dialogue_lobby_opening_1
+    _value: "\u518D\u89C1\uFF01"
+  - _ID: "dialogue_\u5F00\u573A\u767D_0"
+    _value: "\u4F60\u597D"
+  - _ID: "dialogue_\u5F00\u573A\u767D_1"
+    _value: "\u6B22\u8FCE\u6765\u5230\u6E38\u620F"
+  - _ID: "dialogue_\u5F00\u573A\u767D_2"
+    _value: "\u6211\u662F\u9E7F\u5C9B"
+  - _ID: "dialogue_\u5F00\u573A\u767D_3"
+    _value: "\u518D\u89C1"
+  - _ID: dialogue_girl_name_1
+    _value: "\u9E7F\u5C9B"
+  - _ID: girl_name_1
+    _value: 
+  - _ID: girl_name_2
+    _value: 
+  - _ID: girl_name_3
+    _value: 
+  - _ID: girl_hobby_1
+    _value: 
+  - _ID: girl_hobby_2
+    _value: 
+  - _ID: girl_hobby_3
+    _value: 

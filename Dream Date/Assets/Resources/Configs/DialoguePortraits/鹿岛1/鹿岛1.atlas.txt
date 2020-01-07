@@ -1,0 +1,160 @@
+
+鹿岛1.png
+size: 8268,1280
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+bing
+  rotate: false
+  xy: 7982, 842
+  size: 198, 436
+  orig: 198, 436
+  offset: 0, 0
+  index: -1
+gaoguang
+  rotate: true
+  xy: 8182, 1079
+  size: 199, 76
+  orig: 199, 76
+  offset: 0, 0
+  index: -1
+houling
+  rotate: true
+  xy: 6682, 85
+  size: 206, 343
+  orig: 206, 343
+  offset: 0, 0
+  index: -1
+jiemao
+  rotate: false
+  xy: 7122, 6
+  size: 272, 165
+  orig: 283, 165
+  offset: 11, 0
+  index: -1
+lingzi
+  rotate: false
+  xy: 7795, 211
+  size: 471, 481
+  orig: 471, 481
+  offset: 0, 0
+  index: -1
+liuhai
+  rotate: false
+  xy: 6688, 293
+  size: 460, 477
+  orig: 460, 477
+  offset: 0, 0
+  index: -1
+mawei
+  rotate: true
+  xy: 5973, 772
+  size: 506, 1175
+  orig: 506, 1175
+  offset: 0, 0
+  index: -1
+meimao
+  rotate: true
+  xy: 5902, 478
+  size: 249, 68
+  orig: 249, 68
+  offset: 0, 0
+  index: -1
+qunzi
+  rotate: false
+  xy: 5154, 54
+  size: 746, 673
+  orig: 746, 698
+  offset: 0, 25
+  index: -1
+saihong
+  rotate: false
+  xy: 7795, 50
+  size: 314, 159
+  orig: 320, 159
+  offset: 0, 0
+  index: -1
+shangyi
+  rotate: true
+  xy: 7150, 173
+  size: 519, 643
+  orig: 519, 657
+  offset: 0, 0
+  index: -1
+shenti
+  rotate: true
+  xy: 3409, 729
+  size: 549, 2562
+  orig: 549, 2562
+  offset: 0, 0
+  index: -1
+tou
+  rotate: true
+  xy: 5902, 62
+  size: 375, 457
+  orig: 375, 457
+  offset: 0, 0
+  index: -1
+toufa
+  rotate: true
+  xy: 6361, 100
+  size: 337, 319
+  orig: 337, 319
+  offset: 0, 0
+  index: -1
+waifaguang2
+  rotate: true
+  xy: 2, 2
+  size: 1276, 3405
+  orig: 1276, 3405
+  offset: 0, 0
+  index: -1
+yanbai
+  rotate: false
+  xy: 7982, 698
+  size: 272, 142
+  orig: 272, 148
+  offset: 0, 6
+  index: -1
+yanhei
+  rotate: true
+  xy: 7027, 82
+  size: 209, 93
+  orig: 209, 93
+  offset: 0, 0
+  index: -1
+youshou
+  rotate: true
+  xy: 5973, 439
+  size: 331, 713
+  orig: 331, 715
+  offset: 0, 1
+  index: -1
+youtui
+  rotate: true
+  xy: 3409, 18
+  size: 709, 1743
+  orig: 709, 1744
+  offset: 0, 0
+  index: -1
+zui
+  rotate: false
+  xy: 8111, 136
+  size: 82, 73
+  orig: 82, 73
+  offset: 0, 0
+  index: -1
+zui2
+  rotate: false
+  xy: 7396, 132
+  size: 72, 39
+  orig: 72, 39
+  offset: 0, 0
+  index: -1
+zuoshou
+  rotate: true
+  xy: 7150, 694
+  size: 584, 830
+  orig: 584, 830
+  offset: 0, 0
+  index: -1

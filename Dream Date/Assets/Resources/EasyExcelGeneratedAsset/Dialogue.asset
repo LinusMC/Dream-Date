@@ -1,0 +1,120 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 99a7b1499b7c88d4ea648ea0c55f308e, type: 3}
+  m_Name: Dialogue
+  m_EditorClassIdentifier: 
+  ExcelFileName: Config.xlsx
+  ExcelSheetName: Dialogue
+  KeyFieldName: _ID
+  elements:
+  - _ID: lobby_opening
+    _nameID: dialogue_name_girl_1
+    _contentID: dialogue_lobby_opening_0
+    _bgName: 
+    _portraitName: 
+    _portraitAnimationID: 
+  - _ID: lobby_opening
+    _nameID: dialogue_name_girl_1
+    _contentID: dialogue_lobby_opening_1
+    _bgName: 
+    _portraitName: 
+    _portraitAnimationID: 
+  - _ID: "\u6E38\u620F\u4E8B\u4EF6_1_1_1"
+    _nameID: 
+    _contentID: "\u8FD9\u662F1_1_1\u7684\u5BF9\u8BDD\u6D4B\u8BD5"
+    _bgName: 
+    _portraitName: 
+    _portraitAnimationID: 
+  - _ID: "\u6E38\u620F\u4E8B\u4EF6_1_1_1"
+    _nameID: 
+    _contentID: "\u5728\u4E0B\u4E00\u53E5\u4F60\u4F1A\u770B\u5230\u4E00\u5F20\u534A\u8EAB\u50CF"
+    _bgName: 
+    _portraitName: 
+    _portraitAnimationID: 
+  - _ID: "\u6E38\u620F\u4E8B\u4EF6_1_1_1"
+    _nameID: 
+    _contentID: "\u534A\u8EAB\u50CF\u6D88\u5931\u672F"
+    _bgName: 
+    _portraitName: portrait_RedTree
+    _portraitAnimationID: 
+  - _ID: "\u6E38\u620F\u4E8B\u4EF6_1_1_1"
+    _nameID: 
+    _contentID: "\u5728\u4E0B\u4E00\u53E5\u4F60\u4F1A\u770B\u5230\u80CC\u666F"
+    _bgName: 
+    _portraitName: 
+    _portraitAnimationID: 
+  - _ID: "\u6E38\u620F\u4E8B\u4EF6_1_1_1"
+    _nameID: 
+    _contentID: "\u4F60\u597D\u6211\u662FLily"
+    _bgName: bg_1
+    _portraitName: portrait_RedTree
+    _portraitAnimationID: ' '
+  - _ID: "\u6E38\u620F\u4E8B\u4EF6_1_1_1"
+    _nameID: 
+    _contentID: "\u5F88\u9AD8\u5174\u89C1\u5230\u4F60"
+    _bgName: 
+    _portraitName: portrait_RedTree
+    _portraitAnimationID: 
+  - _ID: "\u6E38\u620F\u4E8B\u4EF6_1_1_1"
+    _nameID: 
+    _contentID: "\u518D\u89C1"
+    _bgName: 
+    _portraitName: portrait_RedTree
+    _portraitAnimationID: 
+  - _ID: "\u6E38\u620F\u4E8B\u4EF6_1_1_3"
+    _nameID: 
+    _contentID: "\u8FD9\u662F1_1_2\u7684\u5BF9\u8BDD\u6D4B\u8BD5"
+    _bgName: 
+    _portraitName: 
+    _portraitAnimationID: 
+  - _ID: "\u6E38\u620F\u4E8B\u4EF6_1_1_3"
+    _nameID: 
+    _contentID: "\u8FD9\u6B21\u4F1A\u89E3\u9501\u4E00\u5F20CG\u56FE"
+    _bgName: cg_1_1_3
+    _portraitName: 
+    _portraitAnimationID: 
+  - _ID: "\u6E38\u620F\u4E8B\u4EF6_1_1_3"
+    _nameID: 
+    _contentID: "\u4FDD\u7559BG"
+    _bgName: cg_1_1_3
+    _portraitName: 
+    _portraitAnimationID: 
+  - _ID: "\u6E38\u620F\u4E8B\u4EF6_1_1_3"
+    _nameID: 
+    _contentID: 88
+    _bgName: cg_1_1_3
+    _portraitName: 
+    _portraitAnimationID: 
+  - _ID: "\u5F00\u573A\u767D"
+    _nameID: 
+    _contentID: "dialogue_\u5F00\u573A\u767D_0"
+    _bgName: 
+    _portraitName: 
+    _portraitAnimationID: 
+  - _ID: "\u5F00\u573A\u767D"
+    _nameID: 
+    _contentID: "dialogue_\u5F00\u573A\u767D_1"
+    _bgName: 
+    _portraitName: 
+    _portraitAnimationID: 
+  - _ID: "\u5F00\u573A\u767D"
+    _nameID: dialogue_girl_name_1
+    _contentID: "dialogue_\u5F00\u573A\u767D_2"
+    _bgName: 
+    _portraitName: 
+    _portraitAnimationID: 
+  - _ID: "\u5F00\u573A\u767D"
+    _nameID: 
+    _contentID: "dialogue_\u5F00\u573A\u767D_3"
+    _bgName: 
+    _portraitName: 
+    _portraitAnimationID: 
